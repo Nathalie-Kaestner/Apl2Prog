@@ -1,0 +1,2 @@
+Einbeck;Bier;1;2
+Hamburg;Korn;1;3
